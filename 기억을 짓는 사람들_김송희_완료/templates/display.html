@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>테라피 - 기억을 짓는 사람들</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/css/style.css?v=2">
+    <style>
+        /* 디스플레이 전용 추가 스타일 */
+        body {
+            overflow: hidden;
+            touch-action: manipulation;
+        }
+    </style>
+</head>
+<body>
+    <div class="display-container">
+        <!-- 메인 배경 (색상 그라데이션 + 사진 슬라이드쇼) -->
+        <div class="gradient-bg" id="gradientBg">
+            <!-- 사진 이미지 (재생 시 표시) -->
+            <img class="slideshow-image hidden" id="slideshowImage" src="" alt="슬라이드쇼">
+            <!-- 색상 필터 오버레이 (부드러운 전환) -->
+            <div class="color-filter-overlay" id="colorFilterOverlay"></div>
+        </div>
+
+        <!-- 전체화면 종료 버튼 (전체화면일 때만 표시) -->
+        <button class="exit-fullscreen-btn hidden" id="exitFullscreenBtn" title="전체화면 종료">✕</button>
+
+        <!-- 컨트롤 바 (하단) -->
+        <div class="control-bar" id="controlBar">
+            <!-- 왼쪽: 음악 컨트롤 -->
+            <div class="control-left">
+                <button class="control-btn" id="prevBtn" title="이전 곡">◀◀</button>
+                <button class="control-btn" id="playPauseBtn" title="재생/일시정지">▶</button>
+                <button class="control-btn" id="nextBtn" title="다음 곡">▶▶</button>
+                <input type="range" class="volume-slider" id="volumeSlider"
+                       min="0" max="100" value="70" title="볼륨">
+            </div>
+
+            <!-- 가운데: 현재 곡 정보 -->
+            <div class="control-center">
+                <span id="currentTrack" style="color: white; font-size: 0.9rem;">음악을 업로드해주세요</span>
+            </div>
+
+            <!-- 오른쪽: 미디어/설정/전체화면 버튼 -->
+            <div class="control-right">
+                <button class="control-btn" id="mediaBtn" title="미디어">+</button>
+                <button class="control-btn" id="settingsBtn" title="설정">☰</button>
+                <button class="control-btn" id="fullscreenBtn" title="전체화면">⛶</button>
+            </div>
+        </div>
+
+        <!-- 사이드 패널 (미디어 업로드/재생) -->
+        <div class="side-panel" id="sidePanel">
+            <div class="panel-header">
+                <h3 id="panelTitle">미디어</h3>
+                <button class="close-panel" id="closePanel">✕</button>
+            </div>
+            <div class="panel-content">
+                <!-- 탭 -->
+                <div class="panel-tabs">
+                    <button class="panel-tab active" data-tab="photos">사진</button>
+                    <button class="panel-tab" data-tab="music">음악</button>
+                </div>
+
+                <!-- 사진 탭 내용 -->
+                <div id="photosTab">
+                    <div class="upload-area" id="photoUploadArea">
+                        <input type="file" id="photoInput" accept="image/*" multiple>
+                        <p>+ 사진 업로드</p>
+                        <p style="font-size: 0.8rem;">클릭 또는 드래그</p>
+                    </div>
+                    <div class="media-grid" id="photoGrid">
+                        <!-- 사진 목록 -->
+                    </div>
+                </div>
+
+                <!-- 음악 탭 내용 -->
+                <div id="musicTab" class="hidden">
+                    <div class="upload-area" id="musicUploadArea">
+                        <input type="file" id="musicInput" accept="audio/*" multiple>
+                        <p>+ 음악 업로드</p>
+                        <p style="font-size: 0.8rem;">클릭 또는 드래그</p>
+                    </div>
+                    <div class="music-list" id="musicList">
+                        <!-- 음악 목록 -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <!-- 오디오 플레이어 (숨김) -->
+    <audio id="audioPlayer"></audio>
+
+    <script src="/static/js/display.js?v=6"></script>
+</body>
+</html>

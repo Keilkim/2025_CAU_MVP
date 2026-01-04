@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>저장된 설정 - 기억을 짓는 사람들</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <div class="presets-container">
+        <div class="presets-header">
+            <h1>저장된 설정</h1>
+            <p>테라피를 시작할 설정을 선택하세요</p>
+        </div>
+
+        <!-- 프리셋 목록 -->
+        <div class="presets-list" id="presetsList">
+            <!-- 프리셋 카드들이 여기에 동적으로 추가됩니다 -->
+        </div>
+
+        <!-- 추가 버튼 -->
+        <div class="presets-add">
+            <button id="addPresetBtn" class="btn-add-preset">
+                + 새 설정 추가
+            </button>
+        </div>
+
+        <!-- 로그아웃 -->
+        <div style="text-align: center; padding: 20px;">
+            <button id="logoutBtn" style="background: none; border: none; color: #999; cursor: pointer; font-size: 0.9rem;">
+                로그아웃
+            </button>
+        </div>
+    </div>
+
+    <!-- 신규 사용자 가이드 모달 -->
+    <div class="modal-overlay" id="guideModal">
+        <div class="modal-content guide-modal">
+            <h2>환영합니다!</h2>
+            <p class="guide-intro">치매 환자를 위한 맞춤형 테라피 서비스입니다.<br>아래 설정들을 이해하고 시작해보세요.</p>
+
+            <div class="guide-section">
+                <h3>🎨 색상 설정</h3>
+                <p>환자가 좋아하거나 편안해하는 색상을 선택하세요. 선택한 색상이 테라피 화면의 배경으로 부드럽게 전환됩니다.</p>
+            </div>
+
+            <div class="guide-section">
+                <h3>🎵 음악 분위기</h3>
+                <p>
+                    <strong>편안함</strong> - 느린 템포, 차분한 분위기<br>
+                    <strong>활기참</strong> - 경쾌하고 밝은 분위기<br>
+                    <strong>추억</strong> - 옛 시절을 떠올리는 분위기<br>
+                    <strong>자연</strong> - 자연의 소리가 담긴 분위기
+                </p>
+            </div>
+
+            <div class="guide-section">
+                <h3>📷 기억 유형</h3>
+                <p>
+                    <strong>가족</strong> - 가족 사진, 모임 사진<br>
+                    <strong>여행</strong> - 여행지, 풍경 사진<br>
+                    <strong>자연</strong> - 꽃, 나무, 바다 등 자연 사진<br>
+                    <strong>일상</strong> - 평범한 일상의 순간들
+                </p>
+            </div>
+
+            <div class="guide-section">
+                <h3>📁 사진/음악 업로드</h3>
+                <p>테라피 화면에서 좌측 패널을 열어 환자의 추억이 담긴 <strong>사진</strong>과 좋아하는 <strong>음악</strong>을 업로드할 수 있습니다.</p>
+            </div>
+
+            <button id="guideCloseBtn" class="btn-guide-close">설정 시작하기</button>
+        </div>
+    </div>
+
+    <script src="/static/js/presets.js"></script>
+</body>
+</html>

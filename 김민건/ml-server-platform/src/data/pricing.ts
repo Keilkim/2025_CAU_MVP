@@ -1,0 +1,58 @@
+import { PricingPlan } from '@/types';
+
+export const pricingPlans: PricingPlan[] = [
+  {
+    id: 'basic',
+    name: 'Basic',
+    description: '개인 및 소규모 프로젝트용',
+    price: 0,
+    priceUnit: 'month',
+    features: [
+      '5 GPU 시간/월',
+      '기본 모델 접근',
+      '커뮤니티 지원',
+      '1GB 스토리지',
+      'API 100회/일',
+    ],
+    highlighted: false,
+    ctaText: '무료로 시작',
+  },
+  {
+    id: 'pro',
+    name: 'Pro',
+    description: '전문 개발자를 위한 플랜',
+    price: 49,
+    priceUnit: 'month',
+    features: [
+      '100 GPU 시간/월',
+      '모든 모델 접근',
+      '우선 지원',
+      '50GB 스토리지',
+      '무제한 API 호출',
+      '팀 협업 (5명)',
+      '커스텀 모델 배포',
+    ],
+    highlighted: true,
+    ctaText: 'Pro 시작하기',
+  },
+  {
+    id: 'enterprise',
+    name: 'Enterprise',
+    description: '대규모 조직을 위한 플랜',
+    price: 299,
+    priceUnit: 'month',
+    features: [
+      '무제한 GPU 시간',
+      '모든 모델 + 얼리 액세스',
+      '전담 매니저 지원',
+      '무제한 스토리지',
+      '무제한 API 호출',
+      '무제한 팀원',
+      '커스텀 모델 학습',
+      'SLA 보장',
+      '온프레미스 배포 옵션',
+    ],
+    highlighted: false,
+    ctaText: '영업팀 문의',
+  },
+];

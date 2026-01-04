@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>설정 - 기억을 짓는 사람들</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <div class="settings-container">
+        <div class="settings-header">
+            <h1>맞춤 설정</h1>
+            <p>선호하는 색상, 음악, 기억 유형을 선택해주세요</p>
+        </div>
+
+        <!-- 색상 선택 -->
+        <section class="settings-section">
+            <h2>좋아하는 색상 <span style="font-weight:400; font-size:0.9rem;">(최대 5개)</span></h2>
+            <div class="color-grid" id="colorGrid">
+                <!-- 색상 버튼들 -->
+            </div>
+        </section>
+
+        <!-- 음악 분위기 선택 -->
+        <section class="settings-section">
+            <h2>음악 분위기</h2>
+            <div class="option-group" id="musicGroup">
+                <button class="option-btn" data-value="편안함">편안함</button>
+                <button class="option-btn" data-value="활기참">활기참</button>
+                <button class="option-btn" data-value="추억">추억</button>
+                <button class="option-btn" data-value="자연">자연</button>
+            </div>
+        </section>
+
+        <!-- 기억 유형 선택 -->
+        <section class="settings-section">
+            <h2>기억 유형</h2>
+            <div class="option-group" id="memoryGroup">
+                <button class="option-btn" data-value="자연">자연</button>
+                <button class="option-btn" data-value="가족">가족</button>
+                <button class="option-btn" data-value="여행">여행</button>
+                <button class="option-btn" data-value="일상">일상</button>
+            </div>
+        </section>
+
+        <!-- 시작 버튼 -->
+        <div class="start-section">
+            <button id="startBtn" class="btn-start" disabled>
+                저장 및 시작
+            </button>
+            <p id="startHint" style="color: #999; margin-top: 10px; font-size: 0.9rem;">
+                색상을 1개 이상 선택해주세요
+            </p>
+        </div>
+
+        <!-- 뒤로가기 / 로그아웃 -->
+        <div style="text-align: center; padding: 20px;">
+            <button id="backBtn" style="background: none; border: none; color: #4A90A4; cursor: pointer; font-size: 0.9rem; margin-right: 20px;">
+                목록으로 돌아가기
+            </button>
+            <button id="logoutBtn" style="background: none; border: none; color: #999; cursor: pointer; font-size: 0.9rem;">
+                로그아웃
+            </button>
+        </div>
+    </div>
+
+    <!-- 프리셋 이름 입력 모달 -->
+    <div class="modal-overlay" id="presetModal">
+        <div class="modal-content">
+            <h3>설정 이름 입력</h3>
+            <p style="color: #666; margin-bottom: 15px; font-size: 0.9rem;">이 설정을 구분할 이름을 입력해주세요</p>
+            <input type="text" id="presetNameInput" placeholder="예: 어머니 오후 테라피" maxlength="30">
+            <div class="modal-buttons">
+                <button id="modalCancelBtn" class="btn-modal-cancel">취소</button>
+                <button id="modalSaveBtn" class="btn-modal-save">저장 및 시작</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="/static/js/settings.js"></script>
+</body>
+</html>

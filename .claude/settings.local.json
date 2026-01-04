@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh auth:*)",
+      "Bash(git --version:*)",
+      "Bash(done)",
+      "Bash(ls:*)",
+      "Bash(winget install:*)",
+      "Bash(\"C:/Program Files/GitHub CLI/gh.exe\" auth status)",
+      "Bash(\"C:/Program Files/GitHub CLI/gh.exe\" auth login --web -h github.com)",
+      "Bash(\"C:/Program Files/GitHub CLI/gh.exe\" auth login --web -h github.com -p https)",
+      "Bash(git init:*)",
+      "Bash(\"C:/Program Files/GitHub CLI/gh.exe\" repo create 2025_CAU_MVP --public --description \"중앙대 RISE 창업캠프 MVP 프로젝트 모음\" --source \"c:/Users/Razer/Desktop/MVP/CAU_MVP\" --push)",
+      "Bash(git add:*)"
+    ]
+  }
+}

@@ -1,0 +1,1979 @@
+{
+  "frames": [
+    {
+      "endpoints": {
+        "top": {
+          "id": "el-1762859091746-u5ma1s7h1-top",
+          "x": 0.5,
+          "y": 0,
+          "position": "top"
+        },
+        "right": {
+          "id": "el-1762859091746-u5ma1s7h1-right",
+          "x": 1,
+          "y": 0.5,
+          "position": "right"
+        },
+        "bottom": {
+          "id": "el-1762859091746-u5ma1s7h1-bottom",
+          "x": 0.5,
+          "y": 1,
+          "position": "bottom"
+        },
+        "left": {
+          "id": "el-1762859091746-u5ma1s7h1-left",
+          "x": 0,
+          "y": 0.5,
+          "position": "left"
+        }
+      },
+      "function": "",
+      "height": 800,
+      "id": "el-1762859091746-u5ma1s7h1",
+      "left": 9079,
+      "name": "allergie",
+      "top": 3938,
+      "type": "html",
+      "width": 567
+    },
+    {
+      "endpoints": {
+        "top": {
+          "id": "el-1762859099419-4foexi0li-top",
+          "x": 0.5,
+          "y": 0,
+          "position": "top"
+        },
+        "right": {
+          "id": "el-1762859099419-4foexi0li-right",
+          "x": 1,
+          "y": 0.5,
+          "position": "right"
+        },
+        "bottom": {
+          "id": "el-1762859099419-4foexi0li-bottom",
+          "x": 0.5,
+          "y": 1,
+          "position": "bottom"
+        },
+        "left": {
+          "id": "el-1762859099419-4foexi0li-left",
+          "x": 0,
+          "y": 0.5,
+          "position": "left"
+        }
+      },
+      "function": "",
+      "height": 439,
+      "id": "el-1762859099419-4foexi0li",
+      "left": 9130,
+      "name": "idpw",
+      "top": 4004,
+      "type": "container",
+      "width": 461
+    },
+    {
+      "endpoints": {
+        "top": {
+          "id": "el-1762859109551-gg7z0iwiq-top",
+          "x": 0.5,
+          "y": 0,
+          "position": "top"
+        },
+        "right": {
+          "id": "el-1762859109551-gg7z0iwiq-right",
+          "x": 1,
+          "y": 0.5,
+          "position": "right"
+        },
+        "bottom": {
+          "id": "el-1762859109551-gg7z0iwiq-bottom",
+          "x": 0.5,
+          "y": 1,
+          "position": "bottom"
+        },
+        "left": {
+          "id": "el-1762859109551-gg7z0iwiq-left",
+          "x": 0,
+          "y": 0.5,
+          "position": "left"
+        }
+      },
+      "function": "",
+      "height": 198,
+      "id": "el-1762859109551-gg7z0iwiq",
+      "left": 9140,
+      "name": "login-resis",
+      "top": 4472,
+      "type": "container",
+      "width": 439
+    },
+    {
+      "endpoints": {
+        "top": {
+          "id": "el-1762859121656-g65m69ejs-top",
+          "x": 0.5,
+          "y": 0,
+          "position": "top"
+        },
+        "right": {
+          "id": "el-1762859121656-g65m69ejs-right",
+          "x": 1,
+          "y": 0.5,
+          "position": "right"
+        },
+        "bottom": {
+          "id": "el-1762859121656-g65m69ejs-bottom",
+          "x": 0.5,
+          "y": 1,
+          "position": "bottom"
+        },
+        "left": {
+          "id": "el-1762859121656-g65m69ejs-left",
+          "x": 0,
+          "y": 0.5,
+          "position": "left"
+        }
+      },
+      "function": "",
+      "height": 60,
+      "id": "el-1762859121656-g65m69ejs",
+      "left": 9162,
+      "name": "login-run",
+      "top": 4493,
+      "type": "click-button",
+      "width": 392
+    },
+    {
+      "endpoints": {
+        "top": {
+          "id": "el-1762859130972-57lgn42pd-top",
+          "x": 0.5,
+          "y": 0,
+          "position": "top"
+        },
+        "right": {
+          "id": "el-1762859130972-57lgn42pd-right",
+          "x": 1,
+          "y": 0.5,
+          "position": "right"
+        },
+        "bottom": {
+          "id": "el-1762859130972-57lgn42pd-bottom",
+          "x": 0.5,
+          "y": 1,
+          "position": "bottom"
+        },
+        "left": {
+          "id": "el-1762859130972-57lgn42pd-left",
+          "x": 0,
+          "y": 0.5,
+          "position": "left"
+        }
+      },
+      "function": "",
+      "height": 72,
+      "id": "el-1762859130972-57lgn42pd",
+      "left": 9162,
+      "name": "regist",
+      "top": 4574,
+      "type": "click-button",
+      "width": 393
+    },
+    {
+      "endpoints": {
+        "top": {
+          "id": "el-1762859143527-h0gw3m3yg-top",
+          "x": 0.5,
+          "y": 0,
+          "position": "top"
+        },
+        "right": {
+          "id": "el-1762859143527-h0gw3m3yg-right",
+          "x": 1,
+          "y": 0.5,
+          "position": "right"
+        },
+        "bottom": {
+          "id": "el-1762859143527-h0gw3m3yg-bottom",
+          "x": 0.5,
+          "y": 1,
+          "position": "bottom"
+        },
+        "left": {
+          "id": "el-1762859143527-h0gw3m3yg-left",
+          "x": 0,
+          "y": 0.5,
+          "position": "left"
+        }
+      },
+      "function": "",
+      "height": 72,
+      "id": "el-1762859143527-h0gw3m3yg",
+      "left": 9160,
+      "name": "id",
+      "top": 4120,
+      "type": "input-box",
+      "width": 392
+    },
+    {
+      "endpoints": {
+        "top": {
+          "id": "el-1762859151995-uc8x2sgqo-top",
+          "x": 0.5,
+          "y": 0,
+          "position": "top"
+        },
+        "right": {
+          "id": "el-1762859151995-uc8x2sgqo-right",
+          "x": 1,
+          "y": 0.5,
+          "position": "right"
+        },
+        "bottom": {
+          "id": "el-1762859151995-uc8x2sgqo-bottom",
+          "x": 0.5,
+          "y": 1,
+          "position": "bottom"
+        },
+        "left": {
+          "id": "el-1762859151995-uc8x2sgqo-left",
+          "x": 0,
+          "y": 0.5,
+          "position": "left"
+        }
+      },
+      "function": "",
+      "height": 62,
+      "id": "el-1762859151995-uc8x2sgqo",
+      "left": 9173,
+      "name": "pw",
+      "top": 4224,
+      "type": "click-button",
+      "width": 378
+    },
+    {
+      "endpoints": {
+        "top": {
+          "id": "el-1762859158865-d0bgjlswo-top",
+          "x": 0.5,
+          "y": 0,
+          "position": "top"
+        },
+        "right": {
+          "id": "el-1762859158865-d0bgjlswo-right",
+          "x": 1,
+          "y": 0.5,
+          "position": "right"
+        },
+        "bottom": {
+          "id": "el-1762859158865-d0bgjlswo-bottom",
+          "x": 0.5,
+          "y": 1,
+          "position": "bottom"
+        },
+        "left": {
+          "id": "el-1762859158865-d0bgjlswo-left",
+          "x": 0,
+          "y": 0.5,
+          "position": "left"
+        }
+      },
+      "function": "회원가입 하는 곳. 아이디 비번 입력",
+      "height": 558,
+      "id": "el-1762859158865-d0bgjlswo",
+      "left": 10003,
+      "name": "regist-light-box",
+      "top": 4475,
+      "type": "container",
+      "width": 445
+    },
+    {
+      "endpoints": {
+        "top": {
+          "id": "el-1762859200551-dnbll3whs-top",
+          "x": 0.5,
+          "y": 0,
+          "position": "top"
+        },
+        "right": {
+          "id": "el-1762859200551-dnbll3whs-right",
+          "x": 1,
+          "y": 0.5,
+          "position": "right"
+        },
+        "bottom": {
+          "id": "el-1762859200551-dnbll3whs-bottom",
+          "x": 0.5,
+          "y": 1,
+          "position": "bottom"
+        },
+        "left": {
+          "id": "el-1762859200551-dnbll3whs-left",
+          "x": 0,
+          "y": 0.5,
+          "position": "left"
+        }
+      },
+      "function": "",
+      "height": 702,
+      "id": "el-1762859200551-dnbll3whs",
+      "left": 10001,
+      "name": "main",
+      "top": 3689,
+      "type": "container",
+      "width": 479
+    },
+    {
+      "endpoints": {
+        "top": {
+          "id": "el-1762859250435-wbth1jkp6-top",
+          "x": 0.5,
+          "y": 0,
+          "position": "top"
+        },
+        "right": {
+          "id": "el-1762859250435-wbth1jkp6-right",
+          "x": 1,
+          "y": 0.5,
+          "position": "right"
+        },
+        "bottom": {
+          "id": "el-1762859250435-wbth1jkp6-bottom",
+          "x": 0.5,
+          "y": 1,
+          "position": "bottom"
+        },
+        "left": {
+          "id": "el-1762859250435-wbth1jkp6-left",
+          "x": 0,
+          "y": 0.5,
+          "position": "left"
+        }
+      },
+      "function": "",
+      "height": 82,
+      "id": "el-1762859250435-wbth1jkp6",
+      "left": 10027,
+      "name": "Untitled",
+      "top": 3721,
+      "type": "container",
+      "width": 436
+    },
+    {
+      "endpoints": {
+        "top": {
+          "id": "el-1762859255400-t7zvsqjdb-top",
+          "x": 0.5,
+          "y": 0,
+          "position": "top"
+        },
+        "right": {
+          "id": "el-1762859255400-t7zvsqjdb-right",
+          "x": 1,
+          "y": 0.5,
+          "position": "right"
+        },
+        "bottom": {
+          "id": "el-1762859255400-t7zvsqjdb-bottom",
+          "x": 0.5,
+          "y": 1,
+          "position": "bottom"
+        },
+        "left": {
+          "id": "el-1762859255400-t7zvsqjdb-left",
+          "x": 0,
+          "y": 0.5,
+          "position": "left"
+        }
+      },
+      "function": "클릭 시 카메라 불러옴",
+      "height": 328,
+      "id": "el-1762859255400-t7zvsqjdb",
+      "left": 10036,
+      "name": "take-pics",
+      "top": 3822,
+      "type": "click-button",
+      "width": 419
+    },
+    {
+      "endpoints": {
+        "top": {
+          "id": "el-1762859280300-7k20waj09-top",
+          "x": 0.5,
+          "y": 0,
+          "position": "top"
+        },
+        "right": {
+          "id": "el-1762859280300-7k20waj09-right",
+          "x": 1,
+          "y": 0.5,
+          "position": "right"
+        },
+        "bottom": {
+          "id": "el-1762859280300-7k20waj09-bottom",
+          "x": 0.5,
+          "y": 1,
+          "position": "bottom"
+        },
+        "left": {
+          "id": "el-1762859280300-7k20waj09-left",
+          "x": 0,
+          "y": 0.5,
+          "position": "left"
+        }
+      },
+      "function": "",
+      "height": 59,
+      "id": "el-1762859280300-7k20waj09",
+      "left": 10044,
+      "name": "user-name",
+      "top": 3733,
+      "type": "output-box",
+      "width": 311
+    },
+    {
+      "endpoints": {
+        "top": {
+          "id": "el-1762859288775-r2vgg2y15-top",
+          "x": 0.5,
+          "y": 0,
+          "position": "top"
+        },
+        "right": {
+          "id": "el-1762859288775-r2vgg2y15-right",
+          "x": 1,
+          "y": 0.5,
+          "position": "right"
+        },
+        "bottom": {
+          "id": "el-1762859288775-r2vgg2y15-bottom",
+          "x": 0.5,
+          "y": 1,
+          "position": "bottom"
+        },
+        "left": {
+          "id": "el-1762859288775-r2vgg2y15-left",
+          "x": 0,
+          "y": 0.5,
+          "position": "left"
+        }
+      },
+      "function": "",
+      "height": 59,
+      "id": "el-1762859288775-r2vgg2y15",
+      "left": 10374,
+      "name": "setting-profile",
+      "top": 3732,
+      "type": "click-button",
+      "width": 76
+    },
+    {
+      "endpoints": {
+        "top": {
+          "id": "el-1762859300033-azgjef1re-top",
+          "x": 0.5,
+          "y": 0,
+          "position": "top"
+        },
+        "right": {
+          "id": "el-1762859300033-azgjef1re-right",
+          "x": 1,
+          "y": 0.5,
+          "position": "right"
+        },
+        "bottom": {
+          "id": "el-1762859300033-azgjef1re-bottom",
+          "x": 0.5,
+          "y": 1,
+          "position": "bottom"
+        },
+        "left": {
+          "id": "el-1762859300033-azgjef1re-left",
+          "x": 0,
+          "y": 0.5,
+          "position": "left"
+        }
+      },
+      "function": "",
+      "height": 750,
+      "id": "el-1762859300033-azgjef1re",
+      "left": 10847,
+      "name": "allergie-writing",
+      "top": 3391,
+      "type": "container",
+      "width": 441
+    },
+    {
+      "endpoints": {
+        "top": {
+          "id": "el-1762859375951-hauavpccb-top",
+          "x": 0.5,
+          "y": 0,
+          "position": "top"
+        },
+        "right": {
+          "id": "el-1762859375951-hauavpccb-right",
+          "x": 1,
+          "y": 0.5,
+          "position": "right"
+        },
+        "bottom": {
+          "id": "el-1762859375951-hauavpccb-bottom",
+          "x": 0.5,
+          "y": 1,
+          "position": "bottom"
+        },
+        "left": {
+          "id": "el-1762859375951-hauavpccb-left",
+          "x": 0,
+          "y": 0.5,
+          "position": "left"
+        }
+      },
+      "function": "",
+      "height": 68,
+      "id": "el-1762859375951-hauavpccb",
+      "left": 10866,
+      "name": "header",
+      "top": 3424,
+      "type": "container",
+      "width": 388
+    },
+    {
+      "endpoints": {
+        "top": {
+          "id": "el-1762859402298-uws6zlkg3-top",
+          "x": 0.5,
+          "y": 0,
+          "position": "top"
+        },
+        "right": {
+          "id": "el-1762859402298-uws6zlkg3-right",
+          "x": 1,
+          "y": 0.5,
+          "position": "right"
+        },
+        "bottom": {
+          "id": "el-1762859402298-uws6zlkg3-bottom",
+          "x": 0.5,
+          "y": 1,
+          "position": "bottom"
+        },
+        "left": {
+          "id": "el-1762859402298-uws6zlkg3-left",
+          "x": 0,
+          "y": 0.5,
+          "position": "left"
+        }
+      },
+      "function": "",
+      "height": 40,
+      "id": "el-1762859402298-uws6zlkg3",
+      "left": 10886,
+      "name": "back",
+      "top": 3439,
+      "type": "click-button",
+      "width": 63
+    },
+    {
+      "endpoints": {
+        "top": {
+          "id": "el-1762859428496-7kiwvbhvi-top",
+          "x": 0.5,
+          "y": 0,
+          "position": "top"
+        },
+        "right": {
+          "id": "el-1762859428496-7kiwvbhvi-right",
+          "x": 1,
+          "y": 0.5,
+          "position": "right"
+        },
+        "bottom": {
+          "id": "el-1762859428496-7kiwvbhvi-bottom",
+          "x": 0.5,
+          "y": 1,
+          "position": "bottom"
+        },
+        "left": {
+          "id": "el-1762859428496-7kiwvbhvi-left",
+          "x": 0,
+          "y": 0.5,
+          "position": "left"
+        }
+      },
+      "function": "\"내 알레르기 등록하기\"",
+      "height": 45,
+      "id": "el-1762859428496-7kiwvbhvi",
+      "left": 10963,
+      "name": "title",
+      "top": 3434,
+      "type": "output-box",
+      "width": 274
+    },
+    {
+      "endpoints": {
+        "top": {
+          "id": "el-1762859483000-w97jta13c-top",
+          "x": 0.5,
+          "y": 0,
+          "position": "top"
+        },
+        "right": {
+          "id": "el-1762859483000-w97jta13c-right",
+          "x": 1,
+          "y": 0.5,
+          "position": "right"
+        },
+        "bottom": {
+          "id": "el-1762859483000-w97jta13c-bottom",
+          "x": 0.5,
+          "y": 1,
+          "position": "bottom"
+        },
+        "left": {
+          "id": "el-1762859483000-w97jta13c-left",
+          "x": 0,
+          "y": 0.5,
+          "position": "left"
+        }
+      },
+      "function": "해쉬태크 형식으로 \"allergie_factors.JSON\"의 내용을 불러옴",
+      "height": 406,
+      "id": "el-1762859483000-w97jta13c",
+      "left": 10872,
+      "name": "allergie-hashs",
+      "top": 3505,
+      "type": "container",
+      "width": 381
+    },
+    {
+      "endpoints": {
+        "top": {
+          "id": "el-1762859726156-j7kane3oc-top",
+          "x": 0.5,
+          "y": 0,
+          "position": "top"
+        },
+        "right": {
+          "id": "el-1762859726156-j7kane3oc-right",
+          "x": 1,
+          "y": 0.5,
+          "position": "right"
+        },
+        "bottom": {
+          "id": "el-1762859726156-j7kane3oc-bottom",
+          "x": 0.5,
+          "y": 1,
+          "position": "bottom"
+        },
+        "left": {
+          "id": "el-1762859726156-j7kane3oc-left",
+          "x": 0,
+          "y": 0.5,
+          "position": "left"
+        }
+      },
+      "function": "\"allergie_factors.JSON\"있는 정보들을 하나하나클릭해서 선택 또는 해제 할 수 있음",
+      "height": 37,
+      "id": "el-1762859726156-j7kane3oc",
+      "left": 10887,
+      "name": "factor",
+      "top": 3522,
+      "type": "toggle-button",
+      "width": 126
+    },
+    {
+      "endpoints": {
+        "top": {
+          "id": "el-1762859927577-biszzlems-top",
+          "x": 0.5,
+          "y": 0,
+          "position": "top"
+        },
+        "right": {
+          "id": "el-1762859927577-biszzlems-right",
+          "x": 1,
+          "y": 0.5,
+          "position": "right"
+        },
+        "bottom": {
+          "id": "el-1762859927577-biszzlems-bottom",
+          "x": 0.5,
+          "y": 1,
+          "position": "bottom"
+        },
+        "left": {
+          "id": "el-1762859927577-biszzlems-left",
+          "x": 0,
+          "y": 0.5,
+          "position": "left"
+        }
+      },
+      "function": "",
+      "height": 188,
+      "id": "el-1762859927577-biszzlems",
+      "left": 10869,
+      "name": "add-faactor",
+      "top": 3927,
+      "type": "container",
+      "width": null
+    },
+    {
+      "endpoints": {
+        "top": {
+          "id": "el-1762859945083-mge0hv1vd-top",
+          "x": 0.5,
+          "y": 0,
+          "position": "top"
+        },
+        "right": {
+          "id": "el-1762859945083-mge0hv1vd-right",
+          "x": 1,
+          "y": 0.5,
+          "position": "right"
+        },
+        "bottom": {
+          "id": "el-1762859945083-mge0hv1vd-bottom",
+          "x": 0.5,
+          "y": 1,
+          "position": "bottom"
+        },
+        "left": {
+          "id": "el-1762859945083-mge0hv1vd-left",
+          "x": 0,
+          "y": 0.5,
+          "position": "left"
+        }
+      },
+      "function": "\"주의해야 하는 성분이 더 있어요\"",
+      "height": 44,
+      "id": "el-1762859945083-mge0hv1vd",
+      "left": 10895,
+      "name": "add-fatctor-fifle",
+      "top": 3945,
+      "type": "output-box",
+      "width": 325
+    },
+    {
+      "endpoints": {
+        "top": {
+          "id": "el-1762859965235-nj3qpuio0-top",
+          "x": 0.5,
+          "y": 0,
+          "position": "top"
+        },
+        "right": {
+          "id": "el-1762859965235-nj3qpuio0-right",
+          "x": 1,
+          "y": 0.5,
+          "position": "right"
+        },
+        "bottom": {
+          "id": "el-1762859965235-nj3qpuio0-bottom",
+          "x": 0.5,
+          "y": 1,
+          "position": "bottom"
+        },
+        "left": {
+          "id": "el-1762859965235-nj3qpuio0-left",
+          "x": 0,
+          "y": 0.5,
+          "position": "left"
+        }
+      },
+      "function": "",
+      "height": 45,
+      "id": "el-1762859965235-nj3qpuio0",
+      "left": 10899,
+      "name": "add-factor-func",
+      "top": 4002,
+      "type": "container",
+      "width": 318
+    },
+    {
+      "endpoints": {
+        "top": {
+          "id": "el-1762859981256-vlq3m3n0k-top",
+          "x": 0.5,
+          "y": 0,
+          "position": "top"
+        },
+        "right": {
+          "id": "el-1762859981256-vlq3m3n0k-right",
+          "x": 1,
+          "y": 0.5,
+          "position": "right"
+        },
+        "bottom": {
+          "id": "el-1762859981256-vlq3m3n0k-bottom",
+          "x": 0.5,
+          "y": 1,
+          "position": "bottom"
+        },
+        "left": {
+          "id": "el-1762859981256-vlq3m3n0k-left",
+          "x": 0,
+          "y": 0.5,
+          "position": "left"
+        }
+      },
+      "function": "추가된 알러기 성분을 보여줌",
+      "height": 28,
+      "id": "el-1762859981256-vlq3m3n0k",
+      "left": 10912,
+      "name": "added-factor",
+      "top": 4011,
+      "type": "output-box",
+      "width": 86
+    },
+    {
+      "endpoints": {
+        "top": {
+          "id": "el-1762859999887-6qrk4zncb-top",
+          "x": 0.5,
+          "y": 0,
+          "position": "top"
+        },
+        "right": {
+          "id": "el-1762859999887-6qrk4zncb-right",
+          "x": 1,
+          "y": 0.5,
+          "position": "right"
+        },
+        "bottom": {
+          "id": "el-1762859999887-6qrk4zncb-bottom",
+          "x": 0.5,
+          "y": 1,
+          "position": "bottom"
+        },
+        "left": {
+          "id": "el-1762859999887-6qrk4zncb-left",
+          "x": 0,
+          "y": 0.5,
+          "position": "left"
+        }
+      },
+      "function": "\"+ 직접 입력\"",
+      "height": 31,
+      "id": "el-1762859999887-6qrk4zncb",
+      "left": 11007,
+      "name": "add",
+      "top": 4010,
+      "type": "click-button",
+      "width": 66
+    },
+    {
+      "endpoints": {
+        "top": {
+          "id": "el-1762860059880-e3shzab2k-top",
+          "x": 0.5,
+          "y": 0,
+          "position": "top"
+        },
+        "right": {
+          "id": "el-1762860059880-e3shzab2k-right",
+          "x": 1,
+          "y": 0.5,
+          "position": "right"
+        },
+        "bottom": {
+          "id": "el-1762860059880-e3shzab2k-bottom",
+          "x": 0.5,
+          "y": 1,
+          "position": "bottom"
+        },
+        "left": {
+          "id": "el-1762860059880-e3shzab2k-left",
+          "x": 0,
+          "y": 0.5,
+          "position": "left"
+        }
+      },
+      "function": "저장 버튼임",
+      "height": 39,
+      "id": "el-1762860059880-e3shzab2k",
+      "left": 10884,
+      "name": "save-allgergie-info",
+      "top": 4066,
+      "type": "click-button",
+      "width": 360
+    },
+    {
+      "endpoints": {
+        "top": {
+          "id": "el-1762860202206-2eu9sj848-top",
+          "x": 0.5,
+          "y": 0,
+          "position": "top"
+        },
+        "right": {
+          "id": "el-1762860202206-2eu9sj848-right",
+          "x": 1,
+          "y": 0.5,
+          "position": "right"
+        },
+        "bottom": {
+          "id": "el-1762860202206-2eu9sj848-bottom",
+          "x": 0.5,
+          "y": 1,
+          "position": "bottom"
+        },
+        "left": {
+          "id": "el-1762860202206-2eu9sj848-left",
+          "x": 0,
+          "y": 0.5,
+          "position": "left"
+        }
+      },
+      "function": "\"저장이 완료되었습니다\"로 라이트 박스로 나타날 것",
+      "height": 291,
+      "id": "el-1762860202206-2eu9sj848",
+      "left": 11878,
+      "name": "alert-save",
+      "top": 3734,
+      "type": "output-box",
+      "width": 320
+    },
+    {
+      "endpoints": {
+        "top": {
+          "id": "el-1762860554957-ujka3rmm0-top",
+          "x": 0.5,
+          "y": 0,
+          "position": "top"
+        },
+        "right": {
+          "id": "el-1762860554957-ujka3rmm0-right",
+          "x": 1,
+          "y": 0.5,
+          "position": "right"
+        },
+        "bottom": {
+          "id": "el-1762860554957-ujka3rmm0-bottom",
+          "x": 0.5,
+          "y": 1,
+          "position": "bottom"
+        },
+        "left": {
+          "id": "el-1762860554957-ujka3rmm0-left",
+          "x": 0,
+          "y": 0.5,
+          "position": "left"
+        }
+      },
+      "function": "기능 추가",
+      "height": 631,
+      "id": "el-1762860554957-ujka3rmm0",
+      "left": 10844,
+      "name": "show-pics",
+      "top": 4164,
+      "type": "html",
+      "width": 429
+    },
+    {
+      "endpoints": {
+        "top": {
+          "id": "el-1762860576414-wn6quxx8h-top",
+          "x": 0.5,
+          "y": 0,
+          "position": "top"
+        },
+        "right": {
+          "id": "el-1762860576414-wn6quxx8h-right",
+          "x": 1,
+          "y": 0.5,
+          "position": "right"
+        },
+        "bottom": {
+          "id": "el-1762860576414-wn6quxx8h-bottom",
+          "x": 0.5,
+          "y": 1,
+          "position": "bottom"
+        },
+        "left": {
+          "id": "el-1762860576414-wn6quxx8h-left",
+          "x": 0,
+          "y": 0.5,
+          "position": "left"
+        }
+      },
+      "function": "",
+      "height": 481,
+      "id": "el-1762860576414-wn6quxx8h",
+      "left": 10873,
+      "name": "show",
+      "top": 4192,
+      "type": "output-box",
+      "width": 373
+    },
+    {
+      "endpoints": {
+        "top": {
+          "id": "el-1762860600108-f4j2awjsk-top",
+          "x": 0.5,
+          "y": 0,
+          "position": "top"
+        },
+        "right": {
+          "id": "el-1762860600108-f4j2awjsk-right",
+          "x": 1,
+          "y": 0.5,
+          "position": "right"
+        },
+        "bottom": {
+          "id": "el-1762860600108-f4j2awjsk-bottom",
+          "x": 0.5,
+          "y": 1,
+          "position": "bottom"
+        },
+        "left": {
+          "id": "el-1762860600108-f4j2awjsk-left",
+          "x": 0,
+          "y": 0.5,
+          "position": "left"
+        }
+      },
+      "function": "",
+      "height": 62,
+      "id": "el-1762860600108-f4j2awjsk",
+      "left": 10880,
+      "name": "decide",
+      "top": 4688,
+      "type": "container",
+      "width": 363
+    },
+    {
+      "endpoints": {
+        "top": {
+          "id": "el-1762860616264-jck5r820c-top",
+          "x": 0.5,
+          "y": 0,
+          "position": "top"
+        },
+        "right": {
+          "id": "el-1762860616264-jck5r820c-right",
+          "x": 1,
+          "y": 0.5,
+          "position": "right"
+        },
+        "bottom": {
+          "id": "el-1762860616264-jck5r820c-bottom",
+          "x": 0.5,
+          "y": 1,
+          "position": "bottom"
+        },
+        "left": {
+          "id": "el-1762860616264-jck5r820c-left",
+          "x": 0,
+          "y": 0.5,
+          "position": "left"
+        }
+      },
+      "function": "뒤로가기 버튼",
+      "height": 40,
+      "id": "el-1762860616264-jck5r820c",
+      "left": 10895,
+      "name": "vefore",
+      "top": 4699,
+      "type": "click-button",
+      "width": 153
+    },
+    {
+      "endpoints": {
+        "top": {
+          "id": "el-1762860617299-ya2upalwe-top",
+          "x": 0.5,
+          "y": 0,
+          "position": "top"
+        },
+        "right": {
+          "id": "el-1762860617299-ya2upalwe-right",
+          "x": 1,
+          "y": 0.5,
+          "position": "right"
+        },
+        "bottom": {
+          "id": "el-1762860617299-ya2upalwe-bottom",
+          "x": 0.5,
+          "y": 1,
+          "position": "bottom"
+        },
+        "left": {
+          "id": "el-1762860617299-ya2upalwe-left",
+          "x": 0,
+          "y": 0.5,
+          "position": "left"
+        }
+      },
+      "function": "",
+      "height": 43,
+      "id": "el-1762860617299-ya2upalwe",
+      "left": 11062.8,
+      "name": "analysis",
+      "top": 4697.99,
+      "type": "click-button",
+      "width": 168
+    },
+    {
+      "endpoints": {
+        "top": {
+          "id": "el-1762860660455-g125cuwj2-top",
+          "x": 0.5,
+          "y": 0,
+          "position": "top"
+        },
+        "right": {
+          "id": "el-1762860660455-g125cuwj2-right",
+          "x": 1,
+          "y": 0.5,
+          "position": "right"
+        },
+        "bottom": {
+          "id": "el-1762860660455-g125cuwj2-bottom",
+          "x": 0.5,
+          "y": 1,
+          "position": "bottom"
+        },
+        "left": {
+          "id": "el-1762860660455-g125cuwj2-left",
+          "x": 0,
+          "y": 0.5,
+          "position": "left"
+        }
+      },
+      "function": "\"consider.function\"를 통해 \"load_product_inhert.JSON\"를 보고 해당 사진이 찍은 제품에 알러기 위험이 확실하면 붉은색 배경, 애매하면 주황색, 없으면 초록색으로 배경색이 바뀌도록 해줘",
+      "height": 737,
+      "id": "el-1762860660455-g125cuwj2",
+      "left": 11705.8,
+      "name": "result",
+      "top": 4096.53,
+      "type": "html",
+      "width": 519
+    },
+    {
+      "endpoints": {
+        "top": {
+          "id": "el-1762861465500-q0hjnphvc-top",
+          "x": 0.5,
+          "y": 0,
+          "position": "top"
+        },
+        "right": {
+          "id": "el-1762861465500-q0hjnphvc-right",
+          "x": 1,
+          "y": 0.5,
+          "position": "right"
+        },
+        "bottom": {
+          "id": "el-1762861465500-q0hjnphvc-bottom",
+          "x": 0.5,
+          "y": 1,
+          "position": "bottom"
+        },
+        "left": {
+          "id": "el-1762861465500-q0hjnphvc-left",
+          "x": 0,
+          "y": 0.5,
+          "position": "left"
+        }
+      },
+      "function": "",
+      "height": 318,
+      "id": "el-1762861465500-q0hjnphvc",
+      "left": 11764.9,
+      "name": "Untitled(1)",
+      "top": 4152.21,
+      "type": "container",
+      "width": 350
+    },
+    {
+      "endpoints": {
+        "top": {
+          "id": "el-1762861467772-at5yu5qfr-top",
+          "x": 0.5,
+          "y": 0,
+          "position": "top"
+        },
+        "right": {
+          "id": "el-1762861467772-at5yu5qfr-right",
+          "x": 1,
+          "y": 0.5,
+          "position": "right"
+        },
+        "bottom": {
+          "id": "el-1762861467772-at5yu5qfr-bottom",
+          "x": 0.5,
+          "y": 1,
+          "position": "bottom"
+        },
+        "left": {
+          "id": "el-1762861467772-at5yu5qfr-left",
+          "x": 0,
+          "y": 0.5,
+          "position": "left"
+        }
+      },
+      "function": "AI의 해석",
+      "height": 81,
+      "id": "el-1762861467772-at5yu5qfr",
+      "left": 11782.2,
+      "name": "result-text",
+      "top": 4534.97,
+      "type": "container",
+      "width": 333
+    },
+    {
+      "endpoints": {
+        "top": {
+          "id": "el-1762862229398-t21ktqfa4-top",
+          "x": 0.5,
+          "y": 0,
+          "position": "top"
+        },
+        "right": {
+          "id": "el-1762862229398-t21ktqfa4-right",
+          "x": 1,
+          "y": 0.5,
+          "position": "right"
+        },
+        "bottom": {
+          "id": "el-1762862229398-t21ktqfa4-bottom",
+          "x": 0.5,
+          "y": 1,
+          "position": "bottom"
+        },
+        "left": {
+          "id": "el-1762862229398-t21ktqfa4-left",
+          "x": 0,
+          "y": 0.5,
+          "position": "left"
+        }
+      },
+      "function": "해쉬태그 형식으로 \"load_product_inhert.JSON\"의 내용에서 어떤요서들이 있는지 보여줄 것",
+      "height": 115,
+      "id": "el-1762862229398-t21ktqfa4",
+      "left": 11791,
+      "name": "checked-factors",
+      "top": 4655.42,
+      "type": "output-box",
+      "width": 272
+    },
+    {
+      "endpoints": {
+        "top": {
+          "id": "el-1762862266692-cpxwnc434-top",
+          "x": 0.5,
+          "y": 0,
+          "position": "top"
+        },
+        "right": {
+          "id": "el-1762862266692-cpxwnc434-right",
+          "x": 1,
+          "y": 0.5,
+          "position": "right"
+        },
+        "bottom": {
+          "id": "el-1762862266692-cpxwnc434-bottom",
+          "x": 0.5,
+          "y": 1,
+          "position": "bottom"
+        },
+        "left": {
+          "id": "el-1762862266692-cpxwnc434-left",
+          "x": 0,
+          "y": 0.5,
+          "position": "left"
+        }
+      },
+      "function": "",
+      "height": 296,
+      "id": "el-1762862266692-cpxwnc434",
+      "left": 11743,
+      "name": "Untitled(2)",
+      "top": 4512,
+      "type": "container",
+      "width": 405
+    },
+    {
+      "endpoints": {
+        "top": {
+          "id": "el-1762862278054-8m113z2qd-top",
+          "x": 0.5,
+          "y": 0,
+          "position": "top"
+        },
+        "right": {
+          "id": "el-1762862278054-8m113z2qd-right",
+          "x": 1,
+          "y": 0.5,
+          "position": "right"
+        },
+        "bottom": {
+          "id": "el-1762862278054-8m113z2qd-bottom",
+          "x": 0.5,
+          "y": 1,
+          "position": "bottom"
+        },
+        "left": {
+          "id": "el-1762862278054-8m113z2qd-left",
+          "x": 0,
+          "y": 0.5,
+          "position": "left"
+        }
+      },
+      "function": "",
+      "height": 593,
+      "id": "el-1762862278054-8m113z2qd",
+      "left": 10864,
+      "name": "Untitled(3)",
+      "top": 4182,
+      "type": "container",
+      "width": 394
+    }
+  ],
+  "operations": [
+    {
+      "endpointPosition": {
+        "left": "calc(50% - 5px)",
+        "top": "calc(0% - 5px)"
+      },
+      "id": "el-1762859166966-7gpl4pjyq",
+      "left": 9712,
+      "name": "regist",
+      "role": "기능 추가",
+      "top": 4640,
+      "type": "function"
+    },
+    {
+      "endpointPosition": {
+        "left": "calc(50% - 5px)",
+        "top": "calc(0% - 5px)"
+      },
+      "id": "el-1762859203642-ur25bybsb",
+      "left": 9761,
+      "name": "check_user",
+      "role": "기능 추가",
+      "top": 4167,
+      "type": "function"
+    },
+    {
+      "endpointPosition": {
+        "left": "calc(50% - 5px)",
+        "top": "calc(0% - 5px)"
+      },
+      "id": "el-1762859216325-h0dsw2hwu",
+      "left": 9740,
+      "name": "user_info",
+      "role": "기능 추가",
+      "top": 3822,
+      "type": "json"
+    },
+    {
+      "endpointPosition": {
+        "left": "calc(50% - 5px)",
+        "top": "calc(0% - 5px)"
+      },
+      "id": "el-1762859302809-mh00codys",
+      "left": 10971.7,
+      "name": "allergie_info",
+      "role": "기능 추가",
+      "top": 3012,
+      "type": "function"
+    },
+    {
+      "endpointPosition": {
+        "left": "calc(50% - 5px)",
+        "top": "calc(0% - 5px)"
+      },
+      "id": "el-1762859337693-mujpmqecq",
+      "left": 10621.397273002463,
+      "name": "user_allergie_info",
+      "role": "로그인한 사용자 별JSON 데이터",
+      "top": 3451,
+      "type": "json"
+    },
+    {
+      "endpointPosition": {
+        "left": "calc(50% - 5px)",
+        "top": "calc(0% - 5px)"
+      },
+      "id": "el-1762859409102-dosxanoca",
+      "left": 10614,
+      "name": "back_before",
+      "role": "기능 추가",
+      "top": 3964,
+      "type": "api"
+    },
+    {
+      "endpointPosition": {
+        "left": "calc(50% - 5px)",
+        "top": "calc(0% - 5px)"
+      },
+      "id": "el-1762859442320-6p58dvaia",
+      "left": 10455,
+      "name": "korean_text",
+      "role": "기능 추가",
+      "top": 3155,
+      "type": "json"
+    },
+    {
+      "endpointPosition": {
+        "left": "calc(50% - 5px)",
+        "top": "calc(0% - 5px)"
+      },
+      "id": "el-1762859457298-z47bwet2h",
+      "left": 10452,
+      "name": "assign_lan",
+      "role": "기능 추가",
+      "top": 3306,
+      "type": "function"
+    },
+    {
+      "endpointPosition": {
+        "left": "calc(50% - 5px)",
+        "top": "calc(0% - 5px)"
+      },
+      "id": "el-1762859688987-grxnqc44p",
+      "left": 11352.5,
+      "name": "allergie_factors",
+      "role": "알류, 우유, 메밀, 땅콩, 대두, 밀, 고등어,게, 새우, 돼지고기, 복숭아, 토마토, 아황산류, 호두, 닭고기, 쇠고기, 오징어, 조개류, 잣",
+      "top": 3543.07,
+      "type": "json"
+    },
+    {
+      "endpointPosition": {
+        "left": "calc(50% - 5px)",
+        "top": "calc(0% - 5px)"
+      },
+      "id": "el-1762859822395-x8zjvwbdw",
+      "left": 10620,
+      "name": "save_allger_to_profile",
+      "role": "기능 추가",
+      "top": 3370,
+      "type": "function"
+    },
+    {
+      "endpointPosition": {
+        "left": "calc(50% - 5px)",
+        "top": "calc(0% - 5px)"
+      },
+      "id": "el-1762859845143-k1pc73en3",
+      "left": 11289,
+      "name": "recognizing",
+      "role": "'allergie-hashs.Group'에서 클릭된 'factor.Toggle Button'들을\"user_allergie_info.JSON\"에 저장한다.",
+      "top": 3274,
+      "type": "function"
+    },
+    {
+      "endpointPosition": {
+        "left": "calc(50% - 5px)",
+        "top": "calc(0% - 5px)"
+      },
+      "id": "el-1762860017206-wui54og2b",
+      "left": 11618,
+      "name": "add_info",
+      "role": "기능 추가",
+      "top": 3527,
+      "type": "function"
+    },
+    {
+      "endpointPosition": {
+        "left": "calc(50% - 5px)",
+        "top": "calc(0% - 5px)"
+      },
+      "id": "el-1762860118219-i9jrkfpel",
+      "left": 10922.7,
+      "name": "save",
+      "role": "기능 추가",
+      "top": 3016,
+      "type": "function"
+    },
+    {
+      "endpointPosition": {
+        "left": "calc(50% - 5px)",
+        "top": "calc(0% - 5px)"
+      },
+      "id": "el-1762860307201-lv22c4619",
+      "left": 11453.5,
+      "name": "load_product_inhert",
+      "role": "product info.json",
+      "top": 4833.09,
+      "type": "json"
+    },
+    {
+      "endpointPosition": {
+        "left": "calc(50% - 5px)",
+        "top": "calc(0% - 5px)"
+      },
+      "id": "el-1762860339409-gr0rng34l",
+      "left": 11314,
+      "name": "Gemini",
+      "role": "AIzaSyC0-TW57YUHAh_3-XjsKLXVmqmMD7hk9AU 이 api키는 gemini 2.5 flash로 했으면 해",
+      "top": 4715,
+      "type": "apikey"
+    },
+    {
+      "endpointPosition": {
+        "left": "calc(50% - 5px)",
+        "top": "calc(0% - 5px)"
+      },
+      "id": "el-1762860581500-8ndyz353j",
+      "left": 10407.8,
+      "name": "next_run",
+      "role": "기능 추가",
+      "top": 3514.54,
+      "type": "function"
+    },
+    {
+      "endpointPosition": {
+        "left": "calc(50% - 5px)",
+        "top": "calc(0% - 5px)"
+      },
+      "id": "el-1762860634130-r6utd8kjl",
+      "left": 10600,
+      "name": "back",
+      "role": "기능 추가",
+      "top": 4409,
+      "type": "function"
+    },
+    {
+      "endpointPosition": {
+        "left": "calc(50% - 5px)",
+        "top": "calc(0% - 5px)"
+      },
+      "id": "el-1762860705990-4ad4rxppl",
+      "left": 11353,
+      "name": "consider",
+      "role": "gemini aI가 'show.Output Box'를보고 성분표면 성분표의 글을 읽건가, 제품 사진이면 제품 사진을 보고, \"load_product_inhert.JSON\"에 해당되는지 파악할 수 있도록 해줘",
+      "top": 4455,
+      "type": "function"
+    },
+    {
+      "endpointPosition": {
+        "left": "calc(50% - 5px)",
+        "top": "calc(0% - 5px)"
+      },
+      "id": "el-1762861501399-najwmwmt1",
+      "left": 11443.7,
+      "name": "RAG",
+      "role": "AIzaSyC0-TW57YUHAh_3-XjsKLXVmqmMD7hk9AU 이 api키는 gemini 2.5 flash로 했으면 해",
+      "top": 4597.81,
+      "type": "apikey"
+    }
+  ],
+  "connections": [
+    {
+      "id": "connection-1762859175982",
+      "sourceId": "el-1762859130972-57lgn42pd",
+      "targetId": "el-1762859166966-7gpl4pjyq",
+      "x1": 9553,
+      "y1": 4609,
+      "x2": 9806,
+      "y2": 4635,
+      "state": "active",
+      "sourceEndpointId": "el-1762859130972-57lgn42pd-right",
+      "targetEndpointId": "el-1762859166966-7gpl4pjyq-endpoint"
+    },
+    {
+      "id": "connection-1762859180399",
+      "sourceId": "el-1762859166966-7gpl4pjyq",
+      "targetId": "el-1762859158865-d0bgjlswo",
+      "x1": 9806,
+      "y1": 4635,
+      "x2": 10003,
+      "y2": 4753,
+      "state": "active",
+      "sourceEndpointId": "el-1762859166966-7gpl4pjyq-endpoint",
+      "targetEndpointId": "el-1762859158865-d0bgjlswo-left"
+    },
+    {
+      "id": "connection-1762859212147",
+      "sourceId": "el-1762859121656-g65m69ejs",
+      "targetId": "el-1762859203642-ur25bybsb",
+      "x1": 9552,
+      "y1": 4522,
+      "x2": 9855,
+      "y2": 4162,
+      "state": "active",
+      "sourceEndpointId": "el-1762859121656-g65m69ejs-right",
+      "targetEndpointId": "el-1762859203642-ur25bybsb-endpoint"
+    },
+    {
+      "id": "connection-1762859214734",
+      "sourceId": "el-1762859099419-4foexi0li",
+      "targetId": "el-1762859203642-ur25bybsb",
+      "x1": 9589,
+      "y1": 4222.5,
+      "x2": 9855,
+      "y2": 4162,
+      "state": "active",
+      "sourceEndpointId": "el-1762859099419-4foexi0li-right",
+      "targetEndpointId": "el-1762859203642-ur25bybsb-endpoint"
+    },
+    {
+      "id": "connection-1762859225475",
+      "sourceId": "el-1762859216325-h0dsw2hwu",
+      "targetId": "el-1762859203642-ur25bybsb",
+      "x1": 9834,
+      "y1": 3817,
+      "x2": 9855,
+      "y2": 4162,
+      "state": "active",
+      "sourceEndpointId": "el-1762859216325-h0dsw2hwu-endpoint",
+      "targetEndpointId": "el-1762859203642-ur25bybsb-endpoint"
+    },
+    {
+      "id": "connection-1762859235360",
+      "sourceId": "el-1762859158865-d0bgjlswo",
+      "targetId": "el-1762859216325-h0dsw2hwu",
+      "x1": 10003,
+      "y1": 4753,
+      "x2": 9834,
+      "y2": 3817,
+      "state": "active",
+      "sourceEndpointId": "el-1762859158865-d0bgjlswo-left",
+      "targetEndpointId": "el-1762859216325-h0dsw2hwu-endpoint"
+    },
+    {
+      "id": "connection-1762859310564",
+      "sourceId": "el-1762859288775-r2vgg2y15",
+      "targetId": "el-1762859302809-mh00codys",
+      "x1": 10448,
+      "y1": 3760.5,
+      "x2": 11065.7,
+      "y2": 3007,
+      "state": "active",
+      "sourceEndpointId": "el-1762859288775-r2vgg2y15-right",
+      "targetEndpointId": "el-1762859302809-mh00codys-endpoint"
+    },
+    {
+      "id": "connection-1762859315536",
+      "sourceId": "el-1762859302809-mh00codys",
+      "targetId": "el-1762859300033-azgjef1re",
+      "x1": 11065.7,
+      "y1": 3007,
+      "x2": 10847,
+      "y2": 3765,
+      "state": "active",
+      "sourceEndpointId": "el-1762859302809-mh00codys-endpoint",
+      "targetEndpointId": "el-1762859300033-azgjef1re-left"
+    },
+    {
+      "id": "connection-1762859351725",
+      "sourceId": "el-1762859302809-mh00codys",
+      "targetId": "el-1762859337693-mujpmqecq",
+      "x1": 11065.7,
+      "y1": 3007,
+      "x2": 10715.4,
+      "y2": 3446,
+      "state": "active",
+      "sourceEndpointId": "el-1762859302809-mh00codys-endpoint",
+      "targetEndpointId": "el-1762859337693-mujpmqecq-endpoint"
+    },
+    {
+      "id": "connection-1762859419842",
+      "sourceId": "el-1762859402298-uws6zlkg3",
+      "targetId": "el-1762859409102-dosxanoca",
+      "x1": 10886,
+      "y1": 3458,
+      "x2": 10708,
+      "y2": 3959,
+      "state": "active",
+      "sourceEndpointId": "el-1762859402298-uws6zlkg3-left",
+      "targetEndpointId": "el-1762859409102-dosxanoca-endpoint"
+    },
+    {
+      "id": "connection-1762859422519",
+      "sourceId": "el-1762859409102-dosxanoca",
+      "targetId": "el-1762859200551-dnbll3whs",
+      "x1": 10708,
+      "y1": 3959,
+      "x2": 10478,
+      "y2": 4039,
+      "state": "active",
+      "sourceEndpointId": "el-1762859409102-dosxanoca-endpoint",
+      "targetEndpointId": "el-1762859200551-dnbll3whs-right"
+    },
+    {
+      "id": "connection-1762859469943",
+      "sourceId": "el-1762859457298-z47bwet2h",
+      "targetId": "el-1762859442320-6p58dvaia",
+      "x1": 10546,
+      "y1": 3301,
+      "x2": 10549,
+      "y2": 3150,
+      "state": "active",
+      "sourceEndpointId": "el-1762859457298-z47bwet2h-endpoint",
+      "targetEndpointId": "el-1762859442320-6p58dvaia-endpoint"
+    },
+    {
+      "id": "connection-1762859709626",
+      "sourceId": "el-1762859688987-grxnqc44p",
+      "targetId": "el-1762859483000-w97jta13c",
+      "x1": 11446.5,
+      "y1": 3538.07,
+      "x2": 11251,
+      "y2": 3707,
+      "state": "active",
+      "sourceEndpointId": "el-1762859688987-grxnqc44p-endpoint",
+      "targetEndpointId": "el-1762859483000-w97jta13c-right"
+    },
+    {
+      "id": "connection-1762859840920",
+      "sourceId": "el-1762859822395-x8zjvwbdw",
+      "targetId": "el-1762859337693-mujpmqecq",
+      "x1": 10714,
+      "y1": 3365,
+      "x2": 10715.4,
+      "y2": 3446,
+      "state": "active",
+      "sourceEndpointId": "el-1762859822395-x8zjvwbdw-endpoint",
+      "targetEndpointId": "el-1762859337693-mujpmqecq-endpoint"
+    },
+    {
+      "id": "connection-1762859901986",
+      "sourceId": "el-1762859845143-k1pc73en3",
+      "targetId": "el-1762859822395-x8zjvwbdw",
+      "x1": 11383,
+      "y1": 3269,
+      "x2": 10714,
+      "y2": 3365,
+      "state": "active",
+      "sourceEndpointId": "el-1762859845143-k1pc73en3-endpoint",
+      "targetEndpointId": "el-1762859822395-x8zjvwbdw-endpoint"
+    },
+    {
+      "id": "connection-1762860038529",
+      "sourceId": "el-1762860017206-wui54og2b",
+      "targetId": "el-1762859845143-k1pc73en3",
+      "x1": 11712,
+      "y1": 3522,
+      "x2": 11383,
+      "y2": 3269,
+      "state": "active",
+      "sourceEndpointId": "el-1762860017206-wui54og2b-endpoint",
+      "targetEndpointId": "el-1762859845143-k1pc73en3-endpoint"
+    },
+    {
+      "id": "connection-1762860127436",
+      "sourceId": "el-1762860118219-i9jrkfpel",
+      "targetId": "el-1762860017206-wui54og2b",
+      "x1": 11016.7,
+      "y1": 3011,
+      "x2": 11712,
+      "y2": 3522,
+      "state": "active",
+      "sourceEndpointId": "el-1762860118219-i9jrkfpel-endpoint",
+      "targetEndpointId": "el-1762860017206-wui54og2b-endpoint"
+    },
+    {
+      "id": "connection-1762860139609",
+      "sourceId": "el-1762859483000-w97jta13c",
+      "targetId": "el-1762860118219-i9jrkfpel",
+      "x1": 11251,
+      "y1": 3707,
+      "x2": 11016.7,
+      "y2": 3011,
+      "state": "active",
+      "sourceEndpointId": "el-1762859483000-w97jta13c-right",
+      "targetEndpointId": "el-1762860118219-i9jrkfpel-endpoint"
+    },
+    {
+      "id": "connection-1762860140891",
+      "sourceId": "el-1762860118219-i9jrkfpel",
+      "targetId": "el-1762859845143-k1pc73en3",
+      "x1": 11016.7,
+      "y1": 3011,
+      "x2": 11383,
+      "y2": 3269,
+      "state": "active",
+      "sourceEndpointId": "el-1762860118219-i9jrkfpel-endpoint",
+      "targetEndpointId": "el-1762859845143-k1pc73en3-endpoint"
+    },
+    {
+      "id": "connection-1762860156380",
+      "sourceId": "el-1762860059880-e3shzab2k",
+      "targetId": "el-1762860118219-i9jrkfpel",
+      "x1": 11242,
+      "y1": 4084.5,
+      "x2": 11016.7,
+      "y2": 3011,
+      "state": "active",
+      "sourceEndpointId": "el-1762860059880-e3shzab2k-right",
+      "targetEndpointId": "el-1762860118219-i9jrkfpel-endpoint"
+    },
+    {
+      "id": "connection-1762860186456",
+      "sourceId": "el-1762859965235-nj3qpuio0",
+      "targetId": "el-1762860118219-i9jrkfpel",
+      "x1": 11215,
+      "y1": 4023.5,
+      "x2": 11016.7,
+      "y2": 3011,
+      "state": "active",
+      "sourceEndpointId": "el-1762859965235-nj3qpuio0-right",
+      "targetEndpointId": "el-1762860118219-i9jrkfpel-endpoint"
+    },
+    {
+      "id": "connection-1762860231127",
+      "sourceId": "el-1762860118219-i9jrkfpel",
+      "targetId": "el-1762860202206-2eu9sj848",
+      "x1": 11016.7,
+      "y1": 3011,
+      "x2": 11878,
+      "y2": 3878.5,
+      "state": "active",
+      "sourceEndpointId": "el-1762860118219-i9jrkfpel-endpoint",
+      "targetEndpointId": "el-1762860202206-2eu9sj848-left"
+    },
+    {
+      "id": "connection-1762860592219",
+      "sourceId": "el-1762859200551-dnbll3whs",
+      "targetId": "el-1762860581500-8ndyz353j",
+      "x1": 10478,
+      "y1": 4039,
+      "x2": 10501.8,
+      "y2": 3509.54,
+      "state": "active",
+      "sourceEndpointId": "el-1762859200551-dnbll3whs-right",
+      "targetEndpointId": "el-1762860581500-8ndyz353j-endpoint"
+    },
+    {
+      "id": "connection-1762860596540",
+      "sourceId": "el-1762860581500-8ndyz353j",
+      "targetId": "el-1762860576414-wn6quxx8h",
+      "x1": 10501.8,
+      "y1": 3509.54,
+      "x2": 10873,
+      "y2": 4431.5,
+      "state": "active",
+      "sourceEndpointId": "el-1762860581500-8ndyz353j-endpoint",
+      "targetEndpointId": "el-1762860576414-wn6quxx8h-left"
+    },
+    {
+      "id": "connection-1762860646978",
+      "sourceId": "el-1762860616264-jck5r820c",
+      "targetId": "el-1762860634130-r6utd8kjl",
+      "x1": 10895,
+      "y1": 4718,
+      "x2": 10694,
+      "y2": 4404,
+      "state": "active",
+      "sourceEndpointId": "el-1762860616264-jck5r820c-left",
+      "targetEndpointId": "el-1762860634130-r6utd8kjl-endpoint"
+    },
+    {
+      "id": "connection-1762860649850",
+      "sourceId": "el-1762860634130-r6utd8kjl",
+      "targetId": "el-1762859200551-dnbll3whs",
+      "x1": 10694,
+      "y1": 4404,
+      "x2": 10478,
+      "y2": 4039,
+      "state": "active",
+      "sourceEndpointId": "el-1762860634130-r6utd8kjl-endpoint",
+      "targetEndpointId": "el-1762859200551-dnbll3whs-right"
+    },
+    {
+      "id": "connection-1762860713513",
+      "sourceId": "el-1762860339409-gr0rng34l",
+      "targetId": "el-1762860705990-4ad4rxppl",
+      "x1": 11408,
+      "y1": 4710,
+      "x2": 11447,
+      "y2": 4450,
+      "state": "active",
+      "sourceEndpointId": "el-1762860339409-gr0rng34l-endpoint",
+      "targetEndpointId": "el-1762860705990-4ad4rxppl-endpoint"
+    },
+    {
+      "id": "connection-1762860719220",
+      "sourceId": "el-1762860554957-ujka3rmm0",
+      "targetId": "el-1762860705990-4ad4rxppl",
+      "x1": 11271,
+      "y1": 4478.5,
+      "x2": 11447,
+      "y2": 4450,
+      "state": "active",
+      "sourceEndpointId": "el-1762860554957-ujka3rmm0-right",
+      "targetEndpointId": "el-1762860705990-4ad4rxppl-endpoint"
+    },
+    {
+      "id": "connection-1762860720442",
+      "sourceId": "el-1762860705990-4ad4rxppl",
+      "targetId": "el-1762860660455-g125cuwj2",
+      "x1": 11447,
+      "y1": 4450,
+      "x2": 11705.8,
+      "y2": 4464.03,
+      "state": "active",
+      "sourceEndpointId": "el-1762860705990-4ad4rxppl-endpoint",
+      "targetEndpointId": "el-1762860660455-g125cuwj2-left"
+    },
+    {
+      "id": "connection-1762860727170",
+      "sourceId": "el-1762860307201-lv22c4619",
+      "targetId": "el-1762860339409-gr0rng34l",
+      "x1": 11547.5,
+      "y1": 4828.09,
+      "x2": 11408,
+      "y2": 4710,
+      "state": "active",
+      "sourceEndpointId": "el-1762860307201-lv22c4619-endpoint",
+      "targetEndpointId": "el-1762860339409-gr0rng34l-endpoint"
+    },
+    {
+      "id": "connection-1762861493089",
+      "sourceId": "el-1762860705990-4ad4rxppl",
+      "targetId": "el-1762861467772-at5yu5qfr",
+      "x1": 11447,
+      "y1": 4450,
+      "x2": 11782.2,
+      "y2": 4574.47,
+      "state": "active",
+      "sourceEndpointId": "el-1762860705990-4ad4rxppl-endpoint",
+      "targetEndpointId": "el-1762861467772-at5yu5qfr-left"
+    },
+    {
+      "id": "connection-1762861514434",
+      "sourceId": "el-1762860705990-4ad4rxppl",
+      "targetId": "el-1762861501399-najwmwmt1",
+      "x1": 11447,
+      "y1": 4450,
+      "x2": 11537.7,
+      "y2": 4592.81,
+      "state": "active",
+      "sourceEndpointId": "el-1762860705990-4ad4rxppl-endpoint",
+      "targetEndpointId": "el-1762861501399-najwmwmt1-endpoint"
+    },
+    {
+      "id": "connection-1762861515281",
+      "sourceId": "el-1762861501399-najwmwmt1",
+      "targetId": "el-1762860307201-lv22c4619",
+      "x1": 11537.7,
+      "y1": 4592.81,
+      "x2": 11547.5,
+      "y2": 4828.09,
+      "state": "active",
+      "sourceEndpointId": "el-1762861501399-najwmwmt1-endpoint",
+      "targetEndpointId": "el-1762860307201-lv22c4619-endpoint"
+    },
+    {
+      "id": "connection-1762862251183",
+      "sourceId": "el-1762860307201-lv22c4619",
+      "targetId": "el-1762862229398-t21ktqfa4",
+      "x1": 11547.5,
+      "y1": 4828.09,
+      "x2": 11791,
+      "y2": 4711.92,
+      "state": "active",
+      "sourceEndpointId": "el-1762860307201-lv22c4619-endpoint",
+      "targetEndpointId": "el-1762862229398-t21ktqfa4-left"
+    }
+  ],
+  "lastSaved": "2025-11-11T21:18:08.003241",
+  "username": "123",
+  "version": "1.0"
+}

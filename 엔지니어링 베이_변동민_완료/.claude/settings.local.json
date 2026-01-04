@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx create-next-app@14:*)",
+      "Bash(npm install:*)",
+      "Bash(npm run build:*)",
+      "Bash(npm run dev:*)",
+      "Bash(timeout /t 5 /nobreak)",
+      "Bash(dir:*)",
+      "Bash(copy:*)",
+      "Bash(copy \"c:\\\\Users\\\\Razer\\\\Desktop\\\\CAU_MVP\\\\변동민\\\\샘플1.jpeg\" \"c:\\\\Users\\\\Razer\\\\Desktop\\\\CAU_MVP\\\\변동민\\\\fire-pouch-shop\\\\public\\\\images\\\\products\\\\pouch-s.jpeg\")",
+      "Bash(copy \"c:\\\\Users\\\\Razer\\\\Desktop\\\\CAU_MVP\\\\변동민\\\\샘플2.jpeg\" \"c:\\\\Users\\\\Razer\\\\Desktop\\\\CAU_MVP\\\\변동민\\\\fire-pouch-shop\\\\public\\\\images\\\\products\\\\pouch-m.jpeg\")",
+      "Bash(copy \"c:\\\\Users\\\\Razer\\\\Desktop\\\\CAU_MVP\\\\변동민\\\\샘플3.jpeg\" \"c:\\\\Users\\\\Razer\\\\Desktop\\\\CAU_MVP\\\\변동민\\\\fire-pouch-shop\\\\public\\\\images\\\\products\\\\pouch-l.jpeg\")"
+    ]
+  }
+}
